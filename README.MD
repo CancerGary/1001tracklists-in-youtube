@@ -9,7 +9,7 @@ Insert 1001tracklists into YouTube player.
 
 ## Install
 
-1. You need [Tampermonkey][tampermonkey] (chrome) or [Greasemonkey][greasemonkey] (Firefox) plugin first
+1. You need [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) (chrome) or [Greasemonkey](https://addons.mozilla.org/nl/firefox/addon/greasemonkey/) (Firefox) plugin first
 2. Visit [the page on GreasyFork](https://greasyfork.org/en/scripts/370712-1001tracklists-in-youtube) to install the script.
 
 ## How to use?
@@ -20,7 +20,7 @@ Insert 1001tracklists into YouTube player.
 4. Enjoy!
 5. If the plugin asks for permission, please choose allow. (request 1001tracklists.com from youtube.com need to bypass Access-Control-Allow-Origin)
 
-##Screenshots
+## Screenshots
 
 Switch in settings
 
@@ -39,6 +39,4 @@ When plugin is enabled
 3. Add SoundCloud support
 4. Support history
 
-(However I am a javascript beginner \_\(:з\)∠\)\_)
-[tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-[greasemonkey]: https://addons.mozilla.org/nl/firefox/addon/greasemonkey/
+( However I am a javascript beginner \_\(:з\)∠\)\_ )
