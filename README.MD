@@ -10,7 +10,7 @@ Insert 1001tracklists into YouTube player.
 ## Install
 
 1. You need [Tampermonkey][tampermonkey] (chrome) or [Greasemonkey][greasemonkey] (Firefox) plugin first
-2. Visit [the page on GreasyFork](https://greasyfork.org/en/scripts/370712-1001tracklists-in-youtube) and install the script.
+2. Visit [the page on GreasyFork](https://greasyfork.org/en/scripts/370712-1001tracklists-in-youtube) to install the script.
 
 ## How to use?
 
@@ -40,3 +40,5 @@ When plugin is enabled
 4. Support history
 
 (However I am a javascript beginner \_\(:з\)∠\)\_)
+[tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+[greasemonkey]: https://addons.mozilla.org/nl/firefox/addon/greasemonkey/
