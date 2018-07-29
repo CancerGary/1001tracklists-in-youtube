@@ -1,8 +1,3 @@
----
-typora-root-url: images
-typora-copy-images-to: images
----
-
 # 1001tracklists in YouTube
 
 Insert 1001tracklists into YouTube player.
@@ -29,13 +24,13 @@ Insert 1001tracklists into YouTube player.
 
 Switch in settings
 
-![1532873097331](/1532873097331.png)
+![1532873097331](images/1532873097331.png)
 
 When plugin is enabled
 
 (Sample: [Hardwell Live at Tomorrowland 2018 (WEEK 2)](https://www.youtube.com/watch?v=UD_Nj0sNmpE) and the [tracklists](https://www.1001tracklists.com/tracklist/plpqbpk/hardwell-mainstage-tomorrowland-weekend-2-belgium-2018-07-27.html) on [1001tracklists](https://www.1001tracklists.com))
 
-![1532873354242](/1532873354242.png)
+![1532873354242](images/1532873354242.png)
 
 ## TODO
 
